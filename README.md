@@ -20,6 +20,7 @@ Pexels é uma plataforma que oferece acesso a uma vasta biblioteca de fotos e v�
 
 Aqui está o vídeo que foi criado usando essas ferramentas:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4Mvm-iYgy8?si=4_CKDkfX5vzcG8wd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![under sws red](https://github.com/CharlieCidral/ai-tools/assets/69029099/98edf438-6732-48f8-b114-fb021aac9693)](https://youtu.be/F4Mvm-iYgy8?si=aW0crEaQGByutJCl)
+
 
 Esperamos que você goste do vídeo e encontre as informações úteis. Se você tiver alguma dúvida sobre o processo de criação, não hesite em perguntar.
